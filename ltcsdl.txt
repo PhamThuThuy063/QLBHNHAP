@@ -5,3 +5,5 @@ Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.10
 
 
 Scaffold-DbContext "Data Source=.;Initial Catalog=Northwind;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+
+Phạm Thủy mới update
